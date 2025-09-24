@@ -1,1 +1,2 @@
 # Road-Safety-Data-Analysis
+This project analyzes an Office for National Statistics (ONS) road safety relational database for England and Wales (ONS / data.gov.uk, 2023) comprising multiple tables such as accident, vehicle, and casualty records. The aim is to understand when, where, and under what conditions road accidents occur, and to develop predictive models for accident likelihood and injury severity.
